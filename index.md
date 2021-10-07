@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Welcome BrainHack OpenNeuroPET
 
-You can use the [editor on GitHub](https://github.com/openneuropet/brainhack/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dec 6-7, 2021 | [Register](https://forms.gle/M9QMk2dtguJLmFJB7)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
+BrainHack OpenNeuroPET is a collaborative hackathon with 2 physical location: Copenhagen (locaton tbd), Boston (location tbd, for MGH employees only due to covid) and virtual sessions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The goal is to educate neuroscientist about the benefits of the PET-BIDS specification, help users convert their data to BIDS and create and execute BIDS pipelines
 
-```markdown
-Syntax highlighted code block
+### Schedule
 
-# Header 1
-## Header 2
-### Header 3
+#### Broadcasted Talks
 
-- Bulleted
-- List
+| Dec 6th | 9:30am EST / 3:30pm copenhagen | Melanie Ganz | The The Brain Imaging Data Structure PET extension |
+| Dec 6th | 10:00am EST / 4:00pm copenhagen | Doug Greve | An overview of PetSurfer |
+| Dec 7th | 9:30am EST / 3:30pm copenhagen | Martin Nørgaard | The The Brain Imaging Data Structure PET derivatives |
 
-1. Numbered
-2. List
+### Contribute
 
-**Bold** and _Italic_ and `Code` text
+- [Register](https://goo.gl/de4J2P)
+- [Submit project ideas](https://github.com/openneuropet/outreach/issues/new?assignees=&labels=&template=brainhack-.md&title=%5BBrainHack%5D)
 
-[Link](url) and ![Image](src)
-```
+### Resources
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [BrainHack 101](https://brainhack101.github.io)
+- [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+- [More github resources](https://guides.github.com/)
+- [A Docker tutorial for beginners](https://docker-curriculum.com/)
+- [ReproNim: A Center for Reproducible Neuroimaging Computation](http://www.reproducibleimaging.org/#training)
+  - [Version control systems](http://www.reproducibleimaging.org/module-reproducible-basics/02-vcs/)
+  - [Reproducible computational environments](http://www.reproducibleimaging.org/module-dataprocessing/04-containers/)
+- [NeuroLinks](https://brainhack101.github.io/neurolinks/)
+- [NeuroData](https://neurodata.io/)
 
-### Jekyll Themes
+## Conduct
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/openneuropet/brainhack/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Brainhack is dedicated to providing a harassment-free conference experience for everyone.](https://brainhack.org/code-of-conduct.html).  People attending the Boston location must also abide by MGH's COVID policies.
 
-### Support or Contact
+## Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Cyril Pernet: `cyril.pernet [at] nru.dk` (Copenhagen coordinator)
+- Paul Wighton: `paul.wighton [at] gmail.com` (Boston coordinator)
