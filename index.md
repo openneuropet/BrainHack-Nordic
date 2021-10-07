@@ -28,11 +28,11 @@ The goal is to educate neuroscientist about the benefits of the PET-BIDS specifi
 - [More github resources](https://guides.github.com/)
 - [A Docker tutorial for beginners](https://docker-curriculum.com/)
 
-## Conduct
+### Conduct
 
 [Brainhack is dedicated to providing a harassment-free conference experience for everyone.](https://brainhack.org/code-of-conduct.html)  People attending the Boston location must also abide by MGH's COVID policies.
 
-## Contact
+### Contact
 
 - Cyril Pernet: `cyril.pernet [at] nru.dk` (Copenhagen coordinator)
 - Paul Wighton: `paul.wighton [at] gmail.com` (Boston coordinator)
