@@ -30,7 +30,7 @@ The goal is to educate neuroscientist about the benefits of the PET-BIDS specifi
 
 ## Conduct
 
-[Brainhack is dedicated to providing a harassment-free conference experience for everyone.](https://brainhack.org/code-of-conduct.html).  People attending the Boston location must also abide by MGH's COVID policies.
+[Brainhack is dedicated to providing a harassment-free conference experience for everyone.](https://brainhack.org/code-of-conduct.html)  People attending the Boston location must also abide by MGH's COVID policies.
 
 ## Contact
 
