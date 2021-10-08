@@ -12,6 +12,8 @@ The goal is to educate neuroscientist about the benefits of the PET-BIDS specifi
 
 Details are available on the GitHub repositories of [BrainHack Nordic](https://github.com/openneuropet/outreach/tree/main/Brainhack-Nordic2021) and [BrainHack MGH](https://github.com/openneuropet/outreach/tree/main/Brainhack-MGH2021).
 
+
+
 #### Broadcasted Talks
 
 | Dec 6th | 9:30am EST | 3:30pm copenhagen | Melanie Ganz | The Brain Imaging Data Structure PET extension |
