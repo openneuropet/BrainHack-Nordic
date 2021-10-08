@@ -12,7 +12,7 @@ The goal is to educate neuroscientist about the benefits of the PET-BIDS specifi
 
 Details are available on the GitHub repositories of [BrainHack Nordic](https://github.com/openneuropet/outreach/tree/main/Brainhack-Nordic2021) and [BrainHack MGH](https://github.com/openneuropet/outreach/tree/main/Brainhack-MGH2021).
 
-![joint schedule](https://github.com/openneuropet/brainhack/blob/gh-pages/schedule1.jpg)
+![joint schedule](https://github.com/openneuropet/brainhack/blob/gh-pages/images/schedule1.jpg)
 
 #### Broadcasted Talks
 
