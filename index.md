@@ -4,7 +4,7 @@ Dec 6-7, 2021 | [Register](https://forms.gle/M9QMk2dtguJLmFJB7)
 
 ### About
 
-BrainHack OpenNeuroPET is a collaborative hackathon with 2 physical location: Copenhagen (locaton tbd), Boston (location tbd, for MGH employees only due to covid) and virtual sessions.
+BrainHack OpenNeuroPET is a collaborative hackathon with 2 physical location: Copenhagen ([Hotel SP34 working space](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/location.md) with food all day :-) thx to [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)), Boston (location tbd, for MGH employees only due to covid) and virtual sessions.
 
 The goal is to educate neuroscientist about the benefits of the PET-BIDS specification, help users convert their data to BIDS and create and execute BIDS pipelines
 
