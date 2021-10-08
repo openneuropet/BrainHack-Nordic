@@ -14,9 +14,9 @@ Details are available on the GitHub repositories of [BrainHack Nordic](https://g
 
 #### Broadcasted Talks
 
-| Dec 6th | 9:30am EST | 3:30pm copenhagen | Melanie Ganz | The The Brain Imaging Data Structure PET extension |
+| Dec 6th | 9:30am EST | 3:30pm copenhagen | Melanie Ganz | The Brain Imaging Data Structure PET extension |
 | Dec 6th | 10:00am EST | 4:00pm copenhagen | Doug Greve | An overview of PetSurfer |
-| Dec 7th | 9:30am EST | 3:30pm copenhagen | Martin Nørgaard | The The Brain Imaging Data Structure PET derivatives |
+| Dec 7th | 9:30am EST | 3:30pm copenhagen | Martin Nørgaard | The Brain Imaging Data Structure PET derivatives |
 
 ### Contribute
 
