@@ -8,6 +8,10 @@ BrainHack OpenNeuroPET is a collaborative hackathon with 2 physical location: Co
 
 The main goal is to educate neuroscientist about the benefits of the brain imaging data structure ([BIDS](https://bids.neuroimaging.io/)) and in particular PET-BIDS, help users convert their data to BIDS (datathon) learning from each other good ways to do this, and use/create/test and execute BIDS tools and analysis pipelines. During the unconference, any other project involving multimodal imaging (MRI-fMRI-EEG-PET) is also very welcome and we are looking forward to see how to work together integrating information among approaches.
 
+Our funders:
+
+<img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/nih-logo.png" width="200" height="200"> &nbsp; &nbsp; &nbsp; <img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/logo-Novo-Nordisk-Fonden.png" width="200" height="200">
+
 ### Schedule
 
 Details are available on the GitHub repositories of [BrainHack Nordic](https://github.com/openneuropet/outreach/tree/main/Brainhack-Nordic2021) and [BrainHack MGH](https://github.com/openneuropet/outreach/tree/main/Brainhack-MGH2021).
