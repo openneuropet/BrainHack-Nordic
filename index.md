@@ -10,7 +10,7 @@ The main goal is to educate neuroscientist about the benefits of the brain imagi
 
 Our funders:
 
-<img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/nih-logo.png" width="200" height="200"> &nbsp; &nbsp; &nbsp; <img src="https://github.com/openneuropet/outreach/blob/main/Templates/Images/logo-Novo-Nordisk-Fonden.png" width="200" height="200">
+<img src="https://raw.githubusercontent.com/openneuropet/outreach/blob/main/Templates/Images/nih-logo.png" width="200" height="200"> &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/openneuropet/outreach/blob/main/Templates/Images/logo-Novo-Nordisk-Fonden.png" width="200" height="200">
 
 ### Schedule
 
