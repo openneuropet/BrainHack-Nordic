@@ -6,7 +6,7 @@ Dec 6-7, 2021 | [Register](https://forms.gle/M9QMk2dtguJLmFJB7)
 
 BrainHack OpenNeuroPET is a collaborative hackathon with 2 physical location: Copenhagen ([Hotel SP34 working space](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/location.md) with food all day :-) thx to [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)), Boston (location tbd, for MGH employees only due to covid) and virtual sessions.
 
-The goal is to educate neuroscientist about the benefits of the brain imaging data structure ([BIDS](https://bids.neuroimaging.io/)) and in particular PET-BIDS, help users convert their data to BIDS (datathon) learning from each other good ways to do this, and use/create/test and execute BIDS tools and analysis pipelines.
+The main goal is to educate neuroscientist about the benefits of the brain imaging data structure ([BIDS](https://bids.neuroimaging.io/)) and in particular PET-BIDS, help users convert their data to BIDS (datathon) learning from each other good ways to do this, and use/create/test and execute BIDS tools and analysis pipelines. During the unconference, any other project involving multimodal imaging (MRI-fMRI-EEG-PET) is also very welcome and we are looking forward to see how to work together integrating information among approaches.
 
 ### Schedule
 
