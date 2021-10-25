@@ -26,7 +26,7 @@ Details are available on the GitHub repositories of [BrainHack Nordic](https://g
 
 ### Contribute
 
-- [Register](https://goo.gl/de4J2P)
+- [Register](https://forms.gle/M9QMk2dtguJLmFJB7)
 - [Submit project ideas](https://github.com/openneuropet/outreach/issues/new?assignees=&labels=&template=brainhack-.md&title=%5BBrainHack%5D)
 
 ### Resources
