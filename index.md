@@ -16,7 +16,7 @@ Our funders:
 
 Details are available on the GitHub repositories of [BrainHack Nordic](https://github.com/openneuropet/outreach/tree/main/Brainhack-Nordic2021) and [BrainHack MGH](https://github.com/openneuropet/outreach/tree/main/Brainhack-MGH2021).
 
-<img src="https://raw.githubusercontent.com/openneuropet/brainhack/gh-pages/images/schedule1.jpg">
+<img src="https://raw.githubusercontent.com/openneuropet/brainhack/gh-pages/images/schedule-both-days.png">
 
 #### Broadcasted Talks
 
