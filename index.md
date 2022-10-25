@@ -14,9 +14,15 @@ Our funders:
 
 ### Schedule
 
-Details are available on the GitHub repositories of [BrainHack Nordic](https://github.com/openneuropet/outreach/tree/main/Brainhack-Nordic2022)
+Our brainhack session focuses on educational around BIDS and hacking your PET and multimodal data to prepare them (datathon --> bring your data, or ensure access to them from your laptop) with opportunities to develop tools around PET data conversion, curation, and pipelines.  
 
-<img src="https://raw.githubusercontent.com/openneuropet/brainhack/gh-pages/images/schedule-both-days.png">
+<img src="https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/braindk_small.png">
+
+more [details here](https://github.com/openneuropet/outreach/edit/main/Brainhack-Nordic2022/)
+----------------------------------------------------------------------------------------------------
+   **YOU CAN SUBMIT YOUR PROJECT AS AN [ISSUE](https://github.com/openneuropet/outreach/issues/new/choose)**
+
+----------------------------------------------------------------------------------------------------    
 
 ### Contribute
 
