@@ -1,5 +1,3 @@
-## Welcome to BrainHack OpenNeuroPET
-
 Dec 5-6-7, 2021 | [Register](https://forms.gle/T81WSzi2GdPFd8CQ9)
 
 ### About
