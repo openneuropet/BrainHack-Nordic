@@ -6,17 +6,16 @@ BrainHack Global OpenNeuroPET hackathon is taking place at ([Hotel Scandic Sydha
 
 The main goal is to educate neuroscientist about the benefits of the brain imaging data structure ([BIDS](https://bids.neuroimaging.io/)) and in particular PET-BIDS, using the newly developped PE2BIDS library, and see how we can imprive the educatinal material so you can go home do it, and help other too. We are also aeger to learn from each other on what data processing is done and what you would want to see shared as derivatives, what tools you are missing, helping you and each other in our work. During the unconference, any other project involving PET or multimodal imaging (PET + anything) is also very welcome and we are looking forward to see how to work together integrating information among approaches.
 
-Our funders:
-
-<img src="https://raw.githubusercontent.com/openneuropet/brainhack/gh-pages/images/nih-logo.png" width="150" height="150"> &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/openneuropet/brainhack/gh-pages/images/logo-Novo-Nordisk-Fonden.png" width="150" height="150">
+Wednesday 7th is a train track day: git/github, datalab and PET surfer (yes more PET stuff).  
 
 ### Schedule
 
-Our brainhack session focuses on educational around BIDS and hacking your PET and multimodal data to prepare them (datathon --> bring your data, or ensure access to them from your laptop) with opportunities to develop tools around PET data conversion, curation, and pipelines.  
+Our brainhack session focuses on projects around BIDS and hacking your PET and multimodal data using an unconference style approach.
+
+more [details on the your brain hack days and train track here](https://github.com/openneuropet/outreach/edit/main/Brainhack-Nordic2022/)
 
 <img src="https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/braindk_small.png">
 
-more [details here](https://github.com/openneuropet/outreach/edit/main/Brainhack-Nordic2022/)
 ----------------------------------------------------------------------------------------------------
    **YOU CAN SUBMIT YOUR PROJECT AS AN [ISSUE](https://github.com/openneuropet/outreach/issues/new/choose)**
 
