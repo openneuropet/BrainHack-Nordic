@@ -14,7 +14,7 @@ Our brainhack session focuses on projects around BIDS and hacking your PET and m
 
 more [details on the your brain hack days and train track here](https://github.com/openneuropet/outreach/edit/main/Brainhack-Nordic2022/)
 
-<img src="https://github.com/openneuropet/brainhack/blob/gh-pages/images/braindk_small.png">
+<img src="https://raw.githubusercontent.com/openneuropet/brainhack/gh-pages/images/braindk_small.png">
 
 ----------------------------------------------------------------------------------------------------
    **YOU CAN SUBMIT YOUR PROJECT AS AN [ISSUE](https://github.com/openneuropet/outreach/issues/new/choose)**
