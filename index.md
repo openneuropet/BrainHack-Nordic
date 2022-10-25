@@ -4,9 +4,9 @@ Dec 5-6-7, 2021 | [Register](https://forms.gle/T81WSzi2GdPFd8CQ9)
 
 ### About
 
-BrainHack OpenNeuroPET is a collaborative hackathon with 2 physical location: Copenhagen ([Hotel SP34 working space](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/location.md) with food all day :-) thx to [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)), Boston ([CNY Building 114](https://partners.transloc.com/t/stops/4199220) conference room D1, for MGH employees only due to covid) and virtual sessions.
+BrainHack Global OpenNeuroPET hackathon is taking place at ([Hotel Scandic Sydhavnen](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/location.md) with food all day :-) thx to [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)).
 
-The main goal is to educate neuroscientist about the benefits of the brain imaging data structure ([BIDS](https://bids.neuroimaging.io/)) and in particular PET-BIDS, help users convert their data to BIDS (datathon) learning from each other good ways to do this, and use/create/test and execute BIDS tools and analysis pipelines. During the unconference, any other project involving multimodal imaging (MRI-fMRI-EEG-PET) is also very welcome and we are looking forward to see how to work together integrating information among approaches.
+The main goal is to educate neuroscientist about the benefits of the brain imaging data structure ([BIDS](https://bids.neuroimaging.io/)) and in particular PET-BIDS, using the newly developped PE2BIDS library, and see how we can imprive the educatinal material so you can go home do it, and help other too. We are also aeger to learn from each other on what data processing is done and what you would want to see shared as derivatives, what tools you are missing, helping you and each other in our work. During the unconference, any other project involving PET or multimodal imaging (PET + anything) is also very welcome and we are looking forward to see how to work together integrating information among approaches.
 
 Our funders:
 
@@ -14,15 +14,9 @@ Our funders:
 
 ### Schedule
 
-Details are available on the GitHub repositories of [BrainHack Nordic](https://github.com/openneuropet/outreach/tree/main/Brainhack-Nordic2021) and [BrainHack MGH](https://github.com/openneuropet/outreach/tree/main/Brainhack-MGH2021).
+Details are available on the GitHub repositories of [BrainHack Nordic](https://github.com/openneuropet/outreach/tree/main/Brainhack-Nordic2022)
 
 <img src="https://raw.githubusercontent.com/openneuropet/brainhack/gh-pages/images/schedule-both-days.png">
-
-#### Broadcasted Talks
-
-| Dec 6th | 9:30am EST | 3:30pm copenhagen | Melanie Ganz | The Brain Imaging Data Structure PET extension |
-| Dec 6th | 10:00am EST | 4:00pm copenhagen | Doug Greve | An overview of PetSurfer |
-| Dec 7th | 9:30am EST | 3:30pm copenhagen | Martin Nørgaard | The Brain Imaging Data Structure PET derivatives |
 
 ### Contribute
 
@@ -34,7 +28,8 @@ Details are available on the GitHub repositories of [BrainHack Nordic](https://g
 - [About BrainHack](https://brainhack.org/about.html)
 - [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - [More github resources](https://guides.github.com/)
-- [A Docker tutorial for beginners](https://docker-curriculum.com/)
+- [DataLad handbook](http://handbook.datalad.org/en/latest/)
+- [PET surfer](https://surfer.nmr.mgh.harvard.edu/fswiki/PetSurfer)
 
 ### Conduct
 
@@ -43,4 +38,3 @@ Details are available on the GitHub repositories of [BrainHack Nordic](https://g
 ### Contact
 
 - Cyril Pernet: `cyril.pernet [at] nru.dk` (Copenhagen coordinator)
-- Paul Wighton: `paul.wighton [at] gmail.com` (Boston coordinator)
