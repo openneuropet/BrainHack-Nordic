@@ -4,9 +4,9 @@ Dec 5-6-7, 2022 | [Register](https://forms.gle/T81WSzi2GdPFd8CQ9)
 
 BrainHack Nordic sponsored by OpenNeuroPET is taking place at ([Hotel Scandic Sydhavnen](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/location.md) in Copenhagen with food all day :-) thx to [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)).
 
-The main goal is to educate neuroscientist about the benefits of the brain imaging data structure ([BIDS](https://bids.neuroimaging.io/)) and in particular PET-BIDS, using the newly developped PE2BIDS library, and see how we can imprive the educatinal material so you can go home do it, and help other too. We are also aeger to learn from each other on what data processing is done and what you would want to see shared as derivatives, what tools you are missing, helping you and each other in our work. During the unconference, any other project involving PET or multimodal imaging (PET + anything) is also very welcome and we are looking forward to see how to work together integrating information among approaches.
+The main goal is to educate neuroscientists about the benefits of the brain imaging data structure ([BIDS](https://bids.neuroimaging.io/)) and in particular PET-BIDS, using the newly developed PET2BIDS library, and see how we can improve the educational material so you can go home use the tool, and help others too. We are also eager to learn from each other on what data processing is carried and what you would want to see shared as derivatives, what tools you are missing, helping you and each other in our work. During the unconference, any other project involving PET or multimodal imaging (PET + anything) is also very welcome and we are looking forward to see how to work together integrating information among approaches.
 
-Wednesday 7th is a train track day: git/github, datalab and PET surfer (yes more PET stuff).  
+Wednesday 7th is a train track day: git/github, datalad and PETsurfer (yes more PET stuff).  
 
 ### Schedule
 
