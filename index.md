@@ -23,7 +23,7 @@ more [details on the your brain hack days and train track here](https://github.c
 
 ### Contribute
 
-- [Register](https://forms.gle/M9QMk2dtguJLmFJB7)
+- [Register](https://forms.gle/T81WSzi2GdPFd8CQ9)
 - [Submit project ideas](https://github.com/openneuropet/outreach/issues/new?assignees=&labels=&template=brainhack-.md&title=%5BBrainHack%5D)
 
 ### Resources
