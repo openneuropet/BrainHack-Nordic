@@ -1,43 +1,38 @@
-Dec 5-6-7, 2022 | [Register](https://forms.gle/T81WSzi2GdPFd8CQ9)
+## BIDS derivative meeting
+
+June 21st-23rd 2023 in Copenhagen, Denmark | [Register](https://forms.gle/ZtGaf88RLbiUtQ6n7)
+
+The OpenNeuroPET project is organizing a physical BIDS derivative workshop from the 21st to the 23rd of June 2023 in Copenhagen, Denmark.
 
 ### About
 
-BrainHack Nordic sponsored by OpenNeuroPET is taking place at ([Hotel Scandic Sydhavnen](https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/location.md) in Copenhagen with food all day :-) thx to [Novo Nordisk fonden](https://novonordiskfonden.dk/en/)).
+The proposed workshop physically brings together the international working group for derivatives of the the Brain Imaging Data Structure (BIDS, www.bids-standard.org). BIDS is a community-led standard for organizing, describing and sharing neuroimaging data. In addition to a specification, it includes applications and tools that make it easy for researchers to incorporate BIDS into their current workflows, maximizing reproducibility, data sharing opportunities and supporting good scientific practices. 
 
-The main goal is to educate neuroscientists about the benefits of the brain imaging data structure ([BIDS](https://bids.neuroimaging.io/)) and in particular PET-BIDS, using the newly developed PET2BIDS library, and see how we can improve the educational material so you can go home use the tool, and help others too. We are also eager to learn from each other on what data processing is carried and what you would want to see shared as derivatives, what tools you are missing, helping you and each other in our work. During the unconference, any other project involving PET or multimodal imaging (PET + anything) is also very welcome and we are looking forward to see how to work together integrating information among approaches.
+#### Venue
+OpenNeuroPET will organize the meeting at the Radisson Blu Scandinavia Hotel ( Amager Boulevard 70, 2300 Copenhagen). We will cover the costs of your accommodation (room, incl. breakfast) and will also cover the meeting venue (incl lunch) as well as an evening reception on June 21st and a workshop dinner on June 22nd.
 
-Wednesday 7th is a train track day: git/github, datalad and PETsurfer (yes more PET stuff).  
+#### Travel information
+If you can cover your own travel costs, then please register with this form and make your travel arrangements. You want to fly into Copenhagen airport (CPH, https://www.cph.dk/en).
+If you cannot cover your own travel costs, please wait to register until we know if we can secure additional funding to cover travel for people that cannot cover it themselves.
+
+#### Participants
+
+Participants will be members of the BIDS steering group (https://bids.neuroimaging.io/2022/11/07/BIDS-Steering-Group-Election-2022.html), BIDS maintainers, the lead of the BIDS extension proposals that concern derivatives (https://bids.neuroimaging.io/get_involved.html#extending-the-bids-specification) as well as members of the international OpenNeuroPET project (https://openneuropet.github.io/).
 
 ### Schedule
 
-Our brainhack session focuses on projects around BIDS and hacking your PET and multimodal data using an unconference style approach.
-
-more [details on the your brain hack days and train track here](https://github.com/openneuropet/outreach/edit/main/Brainhack-Nordic2022/)
-
-<img src="https://raw.githubusercontent.com/openneuropet/brainhack/gh-pages/images/braindk_small.png">
-
-----------------------------------------------------------------------------------------------------
-   **YOU CAN SUBMIT YOUR PROJECT AS AN [ISSUE](https://github.com/openneuropet/outreach/issues/new/choose)**
-
-----------------------------------------------------------------------------------------------------    
-
-### Contribute
-
-- [Register](https://forms.gle/T81WSzi2GdPFd8CQ9)
-- [Submit project ideas](https://github.com/openneuropet/outreach/issues/new?assignees=&labels=&template=brainhack-.md&title=%5BBrainHack%5D)
+The workshop will consists of 2 ½ days (Wednesday afternoon - Friday) of collaborative working on aligning the different BIDS extension proposals for derivatives across all neuroimaging modalities (most prominently MRI, MEG, EEG and PET).
 
 ### Resources
 
-- [About BrainHack](https://brainhack.org/about.html)
-- [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-- [More github resources](https://guides.github.com/)
-- [DataLad handbook](http://handbook.datalad.org/en/latest/)
-- [PET surfer](https://surfer.nmr.mgh.harvard.edu/fswiki/PetSurfer)
+- [About BIDS](https://bids.neuroimaging.io/)
+- [OpenNeuroPET](https://openneuropet.github.io/)
 
 ### Conduct
 
-[Brainhack is dedicated to providing a harassment-free conference experience for everyone.](https://brainhack.org/code-of-conduct.html)  People attending the Boston location must also abide by MGH's COVID policies.
+OpenNeuroPET is dedicated to providing a harassment-free conference experience for everyone. We will adhere to the [DDSA (ddsa.dk) Code of Conduct](https://brainhack.org/code-of-conduct.html](https://ddsa.dk/codeofconductforevents/) 
 
 ### Contact
 
-- Cyril Pernet: `cyril.pernet [at] nru.dk` (Copenhagen coordinator)
+- Melanie Ganz: `ganz@di.ku.dk [at] nru.dk`  
+- Cyril Pernet: `cyril.pernet [at] nru.dk` 
