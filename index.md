@@ -1,4 +1,4 @@
-## BIDS derivative meeting, June 21st-23rd 2023 in Copenhagen, Denmark 
+## BIDS derivative workshop, June 21st-23rd 2023 in Copenhagen, Denmark 
 
 The OpenNeuroPET project is organizing a physical BIDS derivative workshop from the 21st to the 23rd of June 2023 in Copenhagen, Denmark.
 
