@@ -30,7 +30,7 @@ The workshop will consists of 2 ½ days (Wednesday afternoon - Friday) of collab
 | Morning |  | Current state of derivatives (BEP leads)| Summarize issue from yesterday and collective agreement |
 | Noon |  | Lunch | Lunch |
 | 2 pm | Registration and arrival| Work in working groups |  Work in working groups |
-|  |   | data formats agreement (nifit, gifti and MDF5), enhanced metatadata and provenance (jsonld), complex N-dimensional data structures (connectivity) | Work in working groups data formats agreement (nifit, gifti and MDF5), enhanced metatadata and provenance (jsonld), complex N-dimensional data structures (connectivity)| 
+|  |   | Theme: data formats agreement (nifit, gifti and MDF5), enhanced metatadata and provenance (jsonld), complex N-dimensional data structures (connectivity) | Theme: data formats agreement (nifit, gifti and MDF5), enhanced metatadata and provenance (jsonld), complex N-dimensional data structures (connectivity)| 
 | 3 pm | Welcome and introductions (BIDS steering group) |  |  |
 | Afternoon | Brainstorming tasks |  |  |
 | 5 pm | Reception |  | Wrap up - The way forward| 
