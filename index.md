@@ -10,7 +10,7 @@ Please register [here](https://forms.gle/ZtGaf88RLbiUtQ6n7)
 The proposed workshop physically brings together the international working group for derivatives of the the Brain Imaging Data Structure (BIDS, www.bids-standard.org). BIDS is a community-led standard for organizing, describing and sharing neuroimaging data. In addition to a specification, it includes applications and tools that make it easy for researchers to incorporate BIDS into their current workflows, maximizing reproducibility, data sharing opportunities and supporting good scientific practices. 
 
 #### Venue
-OpenNeuroPET will organize the meeting at the Radisson Blu Scandinavia Hotel ( Amager Boulevard 70, 2300 Copenhagen). We will cover the costs of your accommodation (room, incl. breakfast) and will also cover the meeting venue (incl lunch) as well as an evening reception on June 21st and a workshop dinner on June 22nd.
+OpenNeuroPET will organize the meeting at the Radisson Blu Scandinavia Hotel ( Amager Boulevard 70, 2300 Copenhagen). All BIDS maintainers and BEP leader costs are covered (travel, room, incl. breakfast) and will also cover the meeting venue (incl lunch) as well as an evening reception on June 21st and a workshop dinner on June 22nd. We are also inviting other involces in the project to join, and are trying to secure furthe funding; register and get in touch so that we can have the meeting package updaded (i.e. more lunch) and book space for evening reception and dinner (travel and accomodation on not covered unfortunately). 
 
 #### Travel information
 If you can cover your own travel costs, then please register with this form and make your travel arrangements. You want to fly into Copenhagen airport (CPH, https://www.cph.dk/en).
