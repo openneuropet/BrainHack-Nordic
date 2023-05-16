@@ -46,6 +46,11 @@ The workshop will consists of 2 ½ days (Wednesday afternoon - Friday) of collab
 
 OpenNeuroPET is dedicated to providing a harassment-free conference experience for everyone, please read our [code of conduct](https://github.com/openneuropet/outreach/blob/main/BIDS_derivatives2023/code_of_conduct.md).
 
+### Funding
+This event is sponsored by the [Novo Nordisk foundation](https://novonordiskfonden.dk/) & the [Lundbeck foundation](https://lundbeckfonden.com/)
+
+
+
 ### Contact
 
 - Melanie Ganz: `melanie.ganz [at] nru.dk`  
