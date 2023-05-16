@@ -48,5 +48,5 @@ OpenNeuroPET is dedicated to providing a harassment-free conference experience f
 
 ### Contact
 
-- Melanie Ganz: `ganz@di.ku.dk [at] nru.dk`  
+- Melanie Ganz: `melanie.ganz [at] nru.dk`  
 - Cyril Pernet: `cyril.pernet [at] nru.dk` 
