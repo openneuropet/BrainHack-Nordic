@@ -3,7 +3,7 @@
 The OpenNeuroPET project is organizing a physical BrainHack in Copenhagen, Denmark.
 
 ### Registration
-Please register [here](https://forms.gle/ZtGaf88RLbiUtQ6n7)
+Please register [here](https://forms.gle/Qbu8ECafzyE239dE6)
 
 ### About
 
