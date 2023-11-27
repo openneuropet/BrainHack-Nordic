@@ -26,9 +26,3 @@ OpenNeuroPET is dedicated to providing a harassment-free conference experience f
 ### Funding
 This event is sponsored by the [Novo Nordisk foundation](https://novonordiskfonden.dk/) 
 
-
-
-### Contact
-
-- Melanie Ganz: `melanie.ganz [at] nru.dk`  
-- Cyril Pernet: `cyril.pernet [at] nru.dk` 
