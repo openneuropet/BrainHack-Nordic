@@ -1,6 +1,6 @@
-## BIDS derivative workshop, June 21st-23rd 2023 in Copenhagen, Denmark 
+## BrainHack Nordic 22-23-24 January
 
-The OpenNeuroPET project is organizing a physical BIDS derivative workshop from the 21st to the 23rd of June 2023 in Copenhagen, Denmark.
+The OpenNeuroPET project is organizing a physical BrainHack in Copenhagen, Denmark.
 
 ### Registration
 Please register [here](https://forms.gle/ZtGaf88RLbiUtQ6n7)
