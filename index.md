@@ -1,6 +1,8 @@
-## BrainHack Nordic 22-23-24 January
+## Join the 3rd edition of BrainHack Nordic: 22-23-24 January
 
 The OpenNeuroPET project is organizing a physical BrainHack in Copenhagen, Denmark.
+
+<img src="https://github.com/openneuropet/outreach/blob/main/Brainhack-Nordic2021/braindk_small.png">
 
 ### Registration
 Please register [here](https://forms.gle/Qbu8ECafzyE239dE6)
