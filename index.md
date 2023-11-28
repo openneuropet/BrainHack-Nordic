@@ -7,7 +7,7 @@ Please register [here](https://forms.gle/Qbu8ECafzyE239dE6)
 
 ### About
 
-**Monday 22th of January** is an educational session around BIDS - it can be attended on it's own if that's just what you are interested in. While being educational, this remains BrainHack, so bring along data to either curate them, or try BIDS apps. The afternoon will have parallel events with either a PET focus or an electrophysiological derivatives focus.
+**Monday 22th of January** This day is devoted to onboarding and training for researchers covering the basics of the BIDS standard, as well as more focused hands-on sessions in the afternoon. It can be attended independently if that's just what you are interested in. While being educational, this remains BrainHack, so bring along data to curate them, or try BIDS apps. The afternoon will have parallel events with either a PET focus or an electrophysiological derivatives focus.
 
 **23rd and 24th** are dedicated to projects, being from the BIDS training session, or anything else you want, in total unconference style. 
 
